@@ -33,6 +33,7 @@ export const YoutubePopup = ({
                         title="YouTube bideo player"
                         data-testid="video-frame"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
                     />
                 </DialogBox>
             }
